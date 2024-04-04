@@ -1,0 +1,4 @@
+#Thu Apr 04 16:48:08 CEST 2024
+base.0=/home/jon/Proyectos/flutter_projects/future_builder_example/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
